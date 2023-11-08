@@ -1,0 +1,28 @@
+* {
+    font-family: Helvetica, sans-serif;
+    color: #fff;
+}
+body {
+    background: linear-gradient(to right, rgba(255, 216, 45, 0.938), rgb(255, 136, 0));
+}
+
+.box {
+    border: 5px solid #fff;
+    border-radius: 15px;
+    width: 40%;
+    margin: 20vh auto;
+    padding: 10px;
+    align-self: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.link {
+    color: rebeccapurple;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+}
